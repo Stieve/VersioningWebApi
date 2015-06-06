@@ -1,0 +1,4 @@
+artifacts/
+.vs/
+*.xproj.user
+*.lock.json
